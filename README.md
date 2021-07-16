@@ -1,3 +1,3 @@
 # android.github.io
 Android Deeplink Test
-<h1>test<h1>
+<a href=ifitcardio://applink>click</a>
